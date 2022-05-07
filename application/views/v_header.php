@@ -11,7 +11,6 @@
             <hgroup>
                 <h1>PHOTOLINE</h1>
                 <h3>Belajar Photography Untuk Pemula</h3>
-Codeigniter</h3>
             <hgroup>
             <nav>
                 <ul>
